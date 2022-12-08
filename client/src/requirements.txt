@@ -1,0 +1,14 @@
+Simple Web Forum to be created
+
+- Requirements : 
+Accounts (basic account creation functionality), login and register 
+Comments section (Should apply to each post made by each person)
+Likes/Dislikes 
+Making a post / submit a post
+Starting a thread, "Thread" page should house/display all the threads that have been started by people
+Each person should have a profile/display photo
+
+** Need to call the API to: 
+Get the total list of threads / comments / posts in that one forum / thread
+like/dislike
+Add a post to the total list of posts (store each post as an item in an object; eg. key is username, value is kervyn
